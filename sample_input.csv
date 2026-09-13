@@ -1,0 +1,16 @@
+ID,Name,Age,City,Salary,Email
+101, Alice ,21, Hyderabad ,50000,alice@gmail.com
+102,Bob,22,,55000,bob@gmail.com
+103,Alice,21,Hyderabad,50000,alice@gmail.com
+104, CHARLIE ,, Chennai ,60000,charlie@gmail.com
+105,David,23,Bangalore,,david@gmail.com
+106,esha,24, HYDERABAD ,65000,esha@gmail.com
+107,Farhan,25,Chennai,70000,farhan@gmail.com
+108,Geetha,26,Hyderabad,72000,
+109, Hari ,27, BANGALORE ,75000,hari@gmail.com
+110,Isha,28,,80000,isha@gmail.com
+111,Jaya,29,Chennai,85000,jaya@gmail.com
+112,Kiran,30,Hyderabad,90000,kiran@gmail.com
+113,Latha,31,Chennai,95000,latha@gmail.com
+114,Mohan,32,Bangalore,100000,mohan@gmail.com
+115,Nisha,33,Hyderabad,,nisha@gmail.com
